@@ -51,6 +51,11 @@ p {
   text-decoration: none;
 }
 
+.link {
+  color: #1882ba;
+  text-decoration: none;
+}
+
 .press {
   font-size: 32px;
 	color: #6f7f79;
