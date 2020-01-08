@@ -51,7 +51,7 @@ p {
   text-decoration: none;
 }
 
-.link {
+.link:hover {
   color: #1882ba;
   text-decoration: underline;;
 }
