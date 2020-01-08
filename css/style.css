@@ -76,4 +76,5 @@ p {
 
 #footer p {
   position: absolute;
+  bottom: 0;
 }
